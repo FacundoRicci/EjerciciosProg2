@@ -6,9 +6,9 @@ class Webinar:
         self.inscriptos = []
         self.finalizados = []
     
-    def inscribir(self,alumno):
-        if alumno not in self.inscriptos:
-            self.inscriptos.append(alumno)
-        else:
-            print("El alumno ya se encuentra inscripto en este curso")
+    #def inscribir(self,alumno):
+    #    if alumno not in self.inscriptos:
+    #        self.inscriptos.append(alumno)
+    #    else:
+    #        print("El alumno ya se encuentra inscripto en este curso")
 
